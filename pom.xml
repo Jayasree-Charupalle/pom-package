@@ -84,7 +84,7 @@
 	    <repository>
 	        <id>github</id>
 	        <name>Jayasree-Charupalle</name>
-	        <url>https://maven.pkg.github.com/Owner/pom-package</url>
+	        <url>https://maven.pkg.github.com/Jayasree-Charupalle/pom-package</url>
 	    </repository>
 	</distributionManagement>
 
